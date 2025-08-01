@@ -30,6 +30,7 @@ ROBOVAC_SERIES = {
         "T2128",
         "T2130",
         "T2132",
+        "T2292",
     ],
     "G": [
         "T1250",
@@ -67,6 +68,7 @@ HAS_CONSUMABLES = [
     "T2261",
     "T2273",
     "T2320",
+    "T2292",
 ]
 
 ROBOVAC_SERIES_FEATURES = {
